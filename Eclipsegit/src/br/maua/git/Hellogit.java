@@ -7,6 +7,8 @@ public class Hellogit {
 		System.out.println("Hello git...");
 		
 		System.out.println("HELLO GIT - ALTERADO NO GITHUB...");
+		
+		System.out.println("HELLO GIT - MODIFICADO NO ECLIPSE...");
 	}
 
 }
