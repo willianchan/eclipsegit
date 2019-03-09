@@ -9,6 +9,8 @@ public class Hellogit {
 		System.out.println("HELLO GIT - ALTERADO NO GITHUB...");
 		
 		System.out.println("HELLO GIT - MODIFICADO NO ECLIPSE...");
+		
+		System.out.println("Olá mundo...");
 	}
 
 }
